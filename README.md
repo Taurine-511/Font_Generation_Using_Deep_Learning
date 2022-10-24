@@ -1,2 +1,2 @@
 # Font_Generation_Using_Deep_Learning
-これは深層学習を用いたフォント生成で提案されたモデルの実装です。
+これは深層学習を用いたフォント生成で提案されたモデルのPytorchによる実装です。
